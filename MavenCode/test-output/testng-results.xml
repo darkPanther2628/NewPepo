@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="9" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-04-19T23:04:12 IST" name="Suite" finished-at="2020-04-19T23:04:12 IST" duration-ms="89">
+    <groups>
+    </groups>
+    <test started-at="2020-04-19T23:04:12 IST" name="Test" finished-at="2020-04-19T23:04:12 IST" duration-ms="89">
+      <class name="Automation.Test3">
+        <test-method is-config="true" signature="BeforeTestSuite()[pri:0, instance:Automation.Test3@70e8f8e]" started-at="2020-04-19T23:04:12 IST" name="BeforeTestSuite" finished-at="2020-04-19T23:04:12 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTestSuite -->
+        <test-method signature="Test3Method1()[pri:0, instance:Automation.Test3@70e8f8e]" started-at="2020-04-19T23:04:12 IST" name="Test3Method1" finished-at="2020-04-19T23:04:12 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3Method1 -->
+        <test-method signature="Test3Method2()[pri:0, instance:Automation.Test3@70e8f8e]" started-at="2020-04-19T23:04:12 IST" name="Test3Method2" finished-at="2020-04-19T23:04:12 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3Method2 -->
+        <test-method signature="Test3Method3()[pri:0, instance:Automation.Test3@70e8f8e]" started-at="2020-04-19T23:04:12 IST" name="Test3Method3" finished-at="2020-04-19T23:04:12 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3Method3 -->
+        <test-method is-config="true" signature="AfterTestSuite()[pri:0, instance:Automation.Test3@70e8f8e]" started-at="2020-04-19T23:04:12 IST" name="AfterTestSuite" finished-at="2020-04-19T23:04:12 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTestSuite -->
+      </class> <!-- Automation.Test3 -->
+      <class name="Automation.Test1">
+        <test-method signature="Test1Method1()[pri:0, instance:Automation.Test1@29626d54]" started-at="2020-04-19T23:04:12 IST" name="Test1Method1" finished-at="2020-04-19T23:04:12 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1Method1 -->
+        <test-method signature="Test1Method2()[pri:0, instance:Automation.Test1@29626d54]" started-at="2020-04-19T23:04:12 IST" name="Test1Method2" finished-at="2020-04-19T23:04:12 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1Method2 -->
+        <test-method signature="Test1Method3()[pri:0, instance:Automation.Test1@29626d54]" started-at="2020-04-19T23:04:12 IST" name="Test1Method3" finished-at="2020-04-19T23:04:12 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1Method3 -->
+      </class> <!-- Automation.Test1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

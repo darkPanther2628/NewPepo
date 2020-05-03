@@ -1,0 +1,4 @@
+Automation\App.class
+META-INF\spring.components
+Automation\GreetingController.class
+Automation\Greeting.class
